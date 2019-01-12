@@ -24,3 +24,5 @@
 
 12. 数组new 后释放用delete[]
 
+13.转换函数不需要写返回值，返回值跟函数的类型一样，operator double() const {}; 转换函数都是不会改变值得 加const
+
